@@ -26,7 +26,7 @@ This project is fully responsive, fast, and optimized for static export.
 
 
 ## Links
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+### [Live Site](https://metaversus-iv61.vercel.app/)
 ### [LinkedIn](https://www.linkedin.com/in/sumit-kushwaha-83b608357/)
 ### [Website](https://sumit-kushwaha.vercel.app/)
 
