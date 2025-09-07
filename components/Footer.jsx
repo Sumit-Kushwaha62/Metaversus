@@ -38,9 +38,24 @@ const Footer = () => (
           <h4 className="font-extrabold text-[24px] text-white">
             METAVERUS
           </h4>
-          <p className="font-normal text-[14px] text-white opacity-50">
+          {/* <p className="font-normal text-[14px] text-white opacity-50">
             Copyright © 2021 - 2022 Metaversus. All rights reserved - Created by <a href='https://www.linkedin.com/in/sumit-kushwaha-83b608357/'> Sumit_Kushwaha</a>
-          </p>
+          </p> */}
+
+
+
+
+<p className="font-normal text-[14px] text-white opacity-50">
+  Copyright © 2021 - 2022 Metaversus. All rights reserved - Created by 
+  <a href="https://www.linkedin.com/in/sumit-kushwaha-83b608357/">
+    {" "}Sumit_Kushwaha
+  </a>
+</p>
+
+
+
+
+
 
           <div className="flex gap-4">
             {socials.map((social) => (
